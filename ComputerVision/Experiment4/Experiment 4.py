@@ -1,6 +1,6 @@
 # Name :- Dev Sharma
 # CU24250269
-# BTech CSE 3rd Year SECTION - "A"
+# BTech CSE 3rd Year SECTION - "B"
 # Roll No. :- 17
 
 # ============================================================
