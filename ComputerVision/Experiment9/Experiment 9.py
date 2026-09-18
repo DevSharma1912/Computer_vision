@@ -7,7 +7,7 @@
 # Name       : Dev Sharma
 # UID        : CU24250269
 # Course     : B.Tech CSE
-# Section    : CSE "A"
+# Section    : CSE "B"
 # Roll No.   : 17
 
 
